@@ -702,8 +702,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0  tvg-id="paramouthd" group-title="BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Paramount_Pictures_2021.svg/1200px-Paramount_Pictures_2021.svg.png",Paramount
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunklist.m3u8
-#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
 
 #EXTINF:0 group-title="BOX" tvg-logo="https://celestial.show/wp-content/uploads/2021/06/logo-1.png",Celestial
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
