@@ -4,7 +4,7 @@
 # VTV
 
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv1.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv1-1408525529847.png",VTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
