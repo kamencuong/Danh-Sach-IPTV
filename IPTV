@@ -746,9 +746,10 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:0 group-title="BOX" tvg-logo="https://i.postimg.cc/3wK9RJTZ/kpopsexy2.png",KPOP Sexy
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:0 tvg-id="davinci" group-title="Hoạt Hình" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
+#EXTINF:0 tvg-id="davinci" group-title="BOX" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/54/Da_Vinci_Learning_%282019-.n.v.%29.png/revision/latest?cb=20191031124005",Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
 
 # HBO truyền hình Mỹ
 
