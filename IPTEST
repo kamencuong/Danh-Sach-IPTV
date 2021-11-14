@@ -1,0 +1,4 @@
+#EXTINF:0 tvg-id="vtc1" group-title="📺| VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1| Tổng Hợp
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://live-vthn.vieon.vn:443/vtc/live/hd_vtc1/TV_HD/hd_vtc1_1080p/chunks.m3u8?cre=CoocaaTV
+https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
