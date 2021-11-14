@@ -32,7 +32,7 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv6-1408525529866.png.png",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv6-1408525529866.png",VTV6
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 
