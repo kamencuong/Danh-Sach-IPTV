@@ -269,10 +269,10 @@ http://vthanh.me/vieon.m3u8?type=tivi&kenh=dak-nong
 #EXTINF:-1 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/132.png", Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/133.png", Đồng Nai 1 HD
+#EXTINF:-1 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="http://tv.xemtivingon.net/images/dongnai1.png", Đồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/134.png", Đồng Nai 2 HD
+#EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="http://tv.xemtivingon.net/images/dongnai2.png", Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/135.png", Đồng Nai 3
@@ -418,7 +418,7 @@ https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://vinhphuctv.vn/Portals/4/images/logo-vp.png", Vĩnh Phúc HD
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://tv.xemtivingon.net/images/vinhphuc.png", Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/184.png", Yên Bái HD
@@ -452,15 +452,12 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 
 #EXTINF:0 tvg-id="inthebox" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-box|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="boxhits" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
 
 #EXTINF:0  tvg-id="man" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",Man
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://gg.gg/cc-man|Referer=http://sctvonline.vn/
 
 #EXTINF:0  tvg-id="bbcearth" group-title="BOX", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
