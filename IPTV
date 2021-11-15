@@ -452,12 +452,15 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 
 #EXTINF:0 tvg-id="inthebox" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_BOXChannel_V1.jpg",BOX Channel
 #EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cc-box|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="boxhits" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/Kartica_BHits.jpg",BOX Hits
 #EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
 
 #EXTINF:0  tvg-id="man" group-title="BOX" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/KARTICA_MAN_V3.png",Man
 #EXTVLCOPT:http-user-agent="CoocaaTV"
+http://gg.gg/cc-man|Referer=http://sctvonline.vn/
 
 #EXTINF:0  tvg-id="bbcearth" group-title="BOX", tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSpjPpSSMP-gWDUwk_lADoX-hL80Vd_4oimihhQuQ=s900-c-k-c0x00ffffff-no-rj",BBC Earth
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -573,6 +576,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 group-title="BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
 https://feed.play.mv/live/10005200/Wvl02Co4S1/1.m3u8?id=coca
+
 #EXTINF:0 group-title="BOX" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
