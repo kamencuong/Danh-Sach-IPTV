@@ -662,3 +662,6 @@ http://203.162.235.41:16905
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN", TBS TV
 http://203.162.235.41:16907
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniJiANnAPEQ7yrT_CrsudRRsK2NF1c0keVcssJFqQ=s900-c-k-c0x00ffffff-no-rj" group-title="NHẬT BẢN", Waku Waku JAPAN
+http://27.67.50.135:18080//292_1.m3u8?AdaptiveType=HLS&SessionID=a63257fc-8354-4273-a991-7af7afef154c&MinBw=0&MaxBw=20000000
