@@ -41,7 +41,7 @@ http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/22/fa6cf16d/fa6cf16d-317b-4612-9a2
 #EXTINF:-1 group-title="Hành Động" tvg-logo="http://static3.myclip.vn/image1/2020/08/24/1598243784483/a88d550b0d5c_384_570.jpg",Cuộc Trỗi Dậy
 http://s1zen.myclip.vn/video1/2020/02/04/09/3f15a7fa/3f15a7fa-be4e-4208-a1b4-ed35b761206a_5_.m3u8
 
-#EXTINF:-1 group-title="Hành Động" tvg-logo="https://fcine.net/uploads/monthly_2017_06/ABC.jpg.9d8ee7fed1da3b382ba93d807e93ade7.jpg",Phi Vụ Rắc Rối - Meet Dave
+#EXTINF:-1 tvg-id="meet dave" group-title="Hành Động" tvg-logo="https://fcine.net/uploads/monthly_2017_06/ABC.jpg.9d8ee7fed1da3b382ba93d807e93ade7.jpg",Phi Vụ Rắc Rối - Meet Dave
 http://vod-zlr2.tv360.vn/video1/2021/09/21/14/365b0aac/365b0aac-d894-43d6-a2b8-647b39f2b6de_5_.m3u8
 
 
