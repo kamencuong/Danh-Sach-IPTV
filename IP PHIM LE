@@ -50,9 +50,12 @@ http://vod-zlr2.tv360.vn/video1/2021/09/21/14/365b0aac/365b0aac-d894-43d6-a2b8-6
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_soi_100_payoff.jpg",Sói 100%
 http://vod-zlr2.tv360.vn/video1/2020/10/12/17/00838f3c/00838f3c-20ef-46e9-9a50-b116092cd231_5_.m3u8
 
-
-
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/07/hieu/26/Ice.Age.2002.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjI0OjQxIFBNJmhhc2hfdmFsdWU9K0pKZGNiQ0E1bTArMW1peFdLOHViQT09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
+
+
+
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 2: BĂNG TAN
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 3: KHỦNG LONG THỨC GIẤC
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 4: LỤC ĐỊA TRÔI DẠT
@@ -62,7 +65,6 @@ http://vod-zlr2.tv360.vn/video1/2020/10/12/17/00838f3c/00838f3c-20ef-46e9-9a50-b
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://static.247phim.com/121829/conversions/2391_gyo-tokyo-fish-attack-2012_photo_portrait-435_627.jpg",GYO : Tokyo fish attack Quái Ngư 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
 http://gg.gg/wx4aa
-
 
 #-- Hài Kịch
 
@@ -76,8 +78,8 @@ http://gg.gg/wx4aa
 #-- Chau Tinh Tri
 
 
-#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f17443e-96eb-4321-a245-6ccdbb139966/deagd7k-30bd027f-c318-410b-bc3f-99c5f55fb26e.png/v1/fill/w_512,h_512,strp/shaolin_soccer__2001__by_vahidkave_deagd7k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMmYxNzQ0M2UtOTZlYi00MzIxLWEyNDUtNmNjZGJiMTM5OTY2XC9kZWFnZDdrLTMwYmQwMjdmLWMzMTgtNDEwYi1iYzNmLTk5YzVmNTVmYjI2ZS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BP5hmP_LhsWa60mk55-MuZCg45qPfaxhi_fpQpDCKio",Đội Bóng Thiếu Lâm (2001)
-#EXTVLCOPT:http-user-agent="CoocaaTV
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://xemphimxua.com/anh/doibongthieulam.jpg",Đội Bóng Thiếu Lâm (2001)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
 
 #EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.ytimg.com/vi/is7ceCQT2JI/maxresdefault.jpg",Đỗ Thánh 1 (1990)
