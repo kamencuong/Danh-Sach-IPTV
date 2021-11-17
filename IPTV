@@ -275,9 +275,6 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="http://tv.xemtivingon.net/images/dongnai2.png", Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/135.png", Đồng Nai 3
-http://vthanh.me/vieon.m3u8?type=tivi&kenh=dong-nai-3
-
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/136.png", Đồng Tháp 1 HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -418,7 +415,7 @@ https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/07/c6/c1/07c6c161-c860-d578-e025-99003d3f9491/source/512x512bb.jpg", Vĩnh Phúc HD
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://i.ibb.co/nQmjGXF/VINHPHUC-BEARTV.png", Vĩnh Phúc HD
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w1854430603.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/184.png", Yên Bái HD
@@ -658,6 +655,3 @@ http://203.162.235.41:16905
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="NHẬT BẢN", TBS TV
 http://203.162.235.41:16907
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniJiANnAPEQ7yrT_CrsudRRsK2NF1c0keVcssJFqQ=s900-c-k-c0x00ffffff-no-rj" group-title="NHẬT BẢN", Waku Waku JAPAN
-http://27.67.50.135:18080//292_2.m3u8?AdaptiveType=HLS&SessionID=85afbf81-8eef-4f76-9453-f87484eec3e4&MinBw=0&MaxBw=20000000
