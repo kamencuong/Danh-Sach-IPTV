@@ -418,8 +418,8 @@ https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="http://tv.xemtivingon.net/images/vinhphuc.png", Vĩnh Phúc HD
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/07/c6/c1/07c6c161-c860-d578-e025-99003d3f9491/source/512x512bb.jpg", Vĩnh Phúc HD
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w1854430603.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/184.png", Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
@@ -521,11 +521,6 @@ https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="kbs_world" group-title="BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png",KBS World
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 tvg-id="nhk_world" group-title="BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-
 
 #EXTINF:0 tvg-id="kix" group-title="BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -651,8 +646,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 # --- Nhật Bản
 
 
-#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/QPtBrky/NHKW-BEARTV.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:0 tvg-id="nhk_world" group-title="NHẬT BẢN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="NHẬT BẢN", TV Asahi
 http://203.162.235.41:16906
@@ -664,4 +660,4 @@ http://203.162.235.41:16905
 http://203.162.235.41:16907
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniJiANnAPEQ7yrT_CrsudRRsK2NF1c0keVcssJFqQ=s900-c-k-c0x00ffffff-no-rj" group-title="NHẬT BẢN", Waku Waku JAPAN
-http://27.67.50.135:18080//292_1.m3u8?AdaptiveType=HLS&SessionID=a63257fc-8354-4273-a991-7af7afef154c&MinBw=0&MaxBw=20000000
+http://27.67.50.135:18080//292_2.m3u8?AdaptiveType=HLS&SessionID=85afbf81-8eef-4f76-9453-f87484eec3e4&MinBw=0&MaxBw=20000000
