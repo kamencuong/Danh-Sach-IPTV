@@ -50,21 +50,34 @@ http://vod-zlr2.tv360.vn/video1/2021/09/21/14/365b0aac/365b0aac-d894-43d6-a2b8-6
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_soi_100_payoff.jpg",Sói 100%
 http://vod-zlr2.tv360.vn/video1/2020/10/12/17/00838f3c/00838f3c-20ef-46e9-9a50-b116092cd231_5_.m3u8
 
-#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 1
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://lh3.googleusercontent.com/-8KMzDRVfHSE/XT0bveP_zCI/AAAAAAAAA_4/KtGkEF4xC5o60Y-_SZPAh29w1RsntkGPwCLcBGAs/s0/Phimplay_ky-bang-ha.jpg",KỶ BĂNG HÀ 1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/07/hieu/26/Ice.Age.2002.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjI0OjQxIFBNJmhhc2hfdmFsdWU9K0pKZGNiQ0E1bTArMW1peFdLOHViQT09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
 
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/03/Ice_Age_the_Meltdown_DVD.jpg",KỶ BĂNG HÀ 2: THỜI BĂNG TAN
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/07/hieu/16/Ice.Age.The.Meltdown.2006.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjQ4OjAzIFBNJmhhc2hfdmFsdWU9c1VmYm92b0daaVdlYXJsektGRHZRQT09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
 
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://phimnhua.com/wp-content/uploads/2021/06/large-cover-270x400.jpg",KỶ BĂNG HÀ 3: KHỦNG LONG THỨC GIẤC
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/07/hieu/06/Ice.Age.Dawn.Of.The.Dinosaurs.2009.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjUwOjA3IFBNJmhhc2hfdmFsdWU9UW9Ra1FITU4wZ3RQZ1g2b25ieGhxZz09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
 
-#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 2: BĂNG TAN
-#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 3: KHỦNG LONG THỨC GIẤC
-#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 4: LỤC ĐỊA TRÔI DẠT
-#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://vaophimzz.com/wp-content/uploads/2021/09/phim-Ky-Bang-Ha-Phan-12345-Ice-Age-12345-20022006200920122016--300x450.jpg",KỶ BĂNG HÀ 5: KẺ TRỘM TRỨNG
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="http://1.bp.blogspot.com/-x0iDRYl4J7U/UMa8ZBLGc0I/AAAAAAAAGsM/MmAFIWK9eg8/s1600/poster1.jpg",KỶ BĂNG HÀ 4: LỤC ĐỊA TRÔI DẠT
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/06/hieulol/28/Ice.Age.Continental.Drift.2012.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjUxOjExIFBNJmhhc2hfdmFsdWU9RTg4cFZXRll1bXBNOG1xclNaUXQ3QT09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
 
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://image.cdnclouds.org/420x600,sc/https://media.cdnclouds.org/img-redirect/movies/2016/ky_bang_ha_5_troi_sap_ice_age_collision_course.jpg",KỶ BĂNG HÀ 5: TRỜI SẬP
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/06/hieulol/09/Ice.Age.Collision.Course.2016.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjUyOjAzIFBNJmhhc2hfdmFsdWU9SHBtcytHc1FVRVFDalpGTVVNRkpzQT09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
+
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://static1.dienanh.net/upload//2015/07/05/ice-age-a-mammoth-christmas-ki-bang-ha-giang-sinh-cua-mammoth-v.jpg",Kỷ Băng Hà: Giáng Sinh Của Ma Mút
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/07/hieu/02/Ice.Age.A.Mammoth.Christmas.2011.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjUzOjAyIFBNJmhhc2hfdmFsdWU9Y0owcjlHc3ZEVlNOV2RMTkNTazFQdz09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
+
+#EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_iceagethegreateggscapade_21384_2418ca42.jpeg",Kỷ Băng Hà: Hành Trình Tìm Trứng
+https://cdnx10i.mediapro.tw/bigv2st2hls/2021/UP001/2021/06/hieulol/11/Ice.Age.The.Great.Egg-Scapade.2016.1080p-muxed.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAyMSAyOjU0OjE4IFBNJmhhc2hfdmFsdWU9R0s2Wk9WSStReGNqT2N0bHVGQnBRdz09JnZhbGlkbWludXRlcz0xODAmaWQ9OWNkYjUxNTQzOTdkMmUxYTY5YTBmZjY5MmNiY2Q1YTE=
 
 #EXTINF:-1 group-title="Hoạt Hình" tvg-logo="https://static.247phim.com/121829/conversions/2391_gyo-tokyo-fish-attack-2012_photo_portrait-435_627.jpg",GYO : Tokyo fish attack Quái Ngư 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
 http://gg.gg/wx4aa
+
+
 
 #-- Hài Kịch
 
