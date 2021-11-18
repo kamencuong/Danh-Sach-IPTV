@@ -2,9 +2,18 @@
 
 #-- Hành Động
 
-#EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.vphimzz.net/img/thumb/nUE0pUZ6Yl9cYzygM3IlYzAioF9kDmL5IT9jYzcjMjiCuvz.jpg",DIỆT VONG Doom: Annihilation (2019)
+
+#EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.vphimzz.net/img/thumb/nUE0pUZ6Yl9cYzygM3IlYzAioF9kDmL5IT9jYzcjMjiCuvz.jpg",DIỆT VONG - Doom: Annihilation (2019)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
-https://play.phimoday.xyz/player/61323b66dc6c39eae1f74cb7/playlist.m3u8
+https://redirect.playpdc.xyz/hls/sBeMcnOzBQHDWO8VN30n9g5kfJI6NwVlHTiWaDmZQKS1nAziEcSZWhrWCpYwcYYs-bofx_flf_TJQBvUkR2F6A==/segment.m3u8
+
+#EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-biet-doi-tu-than-doom-id_5619_1188799682QDr6I.jpg",NGÀY TẬN THẾ - 2012 Doomsday (2008)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+https://redirect.playpdc.xyz/hls/3XxWA3RXns846nNYxhj5hO-PE9bo_mDJSZUcOr5FZ6hBKYcebgcOy5bi_AbvPaxI-tgdg2ok2RAMbNcwYK3Sfw==/segment.m3u8
+
+#EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-biet-doi-tu-than-doom-id_5619_1188799682QDr6I.jpg",BIỆT ĐỘI TỬ THẦN - Doom (2005)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
+https://redirect.playpdc.xyz/hls/bkCLgri0EgLozJt2JWzXtamXasQW811I8zG_hoko2xE_4dLs1Q6hPpjjHCtMfuffs-DfR5W6oqYvuZ5wyZxLog==/segment.m3u8
 
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://cdn.dongphimmoiz.com/wp-content/uploads/2021/09/cuoc-chien-tuong-lai.jpg",The Tomorrow War (2021) Cuộc Chiến Tương Lai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"
@@ -16,8 +25,6 @@ https://play.phimoday.xyz/player/61322204dc6c39eae1f72e22/playlist.m3u8
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://photo-1-baomoi.zadn.vn/w700_r1/2019_06_10_119_31038513/90d1b86db32d5a73033c.jpg",Godzilla : king of the monsters (2019)
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://photo-1-baomoi.zadn.vn/w700_r1/2019_06_10_119_31038513/90d1b86db32d5a73033c.jpg",Kong: Skull Island 2017 
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://photo-1-baomoi.zadn.vn/w700_r1/2019_06_10_119_31038513/90d1b86db32d5a73033c.jpg",Godzilla 2014
-
-
 
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://iphimmoi.net/wp-content/uploads/2021/11/ngoi-nha-duoi-nuoc-54785-thumbnail-250x350.jpg",NGÔI NHÀ DƯỚI NƯỚC
 https://pdcontent6.playdrive.xyz/link/azvrTaSTNwdu586/1080/5959943d4f9b0757cee8dc41f81aea8b/
@@ -55,6 +62,8 @@ https://redirect.playpdc.xyz/hls/mVfTnga4hyVAZLP6Wd4UyoP8_nKFynMFmatnscfJm95Zei7
 #EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-tro-lai-tuong-lai-back-to-the-future-id_4131_28576002299opC.jpg",TRỞ LẠI TƯƠNG LAI Back To The Future (1985)
 https://redirect.playpdc.xyz/hls/_JeyiUci2AKkPo30Kx62uwGsYcfPuP_VbfyRxjgvoLQnDcPQsfNQ0uyHWFtKQ_BWQnFrOQrpqfqzAh7DToF3XA==/segment.m3u8
 
+#EXTINF:-1 group-title="Hành Động" tvg-logo="https://static.playpdc.xyz/poster/jpg/Poster-indiana-jones-va-ngoi-den-tan-khoc-indiana-jones-and-the-temple-of-doom-id_5508_1138814516UNCzn.jpg",INDIANA JONES VÀ NGÔI ĐỀN TÀN KHỐC - Indiana Jones and the Temple of Doom (1984)
+https://redirect.playpdc.xyz/hls/zzo4rG76al2WFHzf9PAGqFzO_7lUHeOHtmVAy1yqfum-Yt5vssvJWb-O2VY3uLVENmY0WCV28Chox2QwjUwQTg==/segment.m3u8
 
 #-- Hoạt Hình
 
