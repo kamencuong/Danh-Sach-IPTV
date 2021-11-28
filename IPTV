@@ -122,7 +122,7 @@ https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",HTV2
+#EXTINF:0 tvg-id="htv2hd" group-title="HTV"tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1c/Logo_HTV2_%282008-2009%29.png/revision/latest/scale-to-width-down/340?cb=20181201104829&path-prefix=vi",HTV2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 
 #EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/HTV3_logo_2019-nay.png/revision/latest?cb=20210718085333&path-prefix=vi",HTV3
@@ -237,7 +237,7 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/118.png", Bình Dương 3 HD
+#EXTINF:0 group-title="Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0e/BTV3_HD_logo_2019.png/revision/latest/scale-to-width-down/1000?cb=20210905034145&path-prefix=vi", Bình Dương 3 HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 
@@ -345,7 +345,7 @@ https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/146.png", Hải Phòng Plus HD
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://thhp.vn/common/v1/images/hptv2.png", Hải Phòng Plus HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://live.thhp.vn/hls/thpplus/index.m3u8
 
