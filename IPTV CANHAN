@@ -185,6 +185,10 @@ https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 tvg-id="dongthap" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/136.png", Đồng Tháp 1 HD
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="longan" group-title="Địa phương" tvg-logo="https://vthanh.xyz/ic/158.png", Long An HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
