@@ -26,13 +26,6 @@ http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200608143410&path-prefix=vi",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
-
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi",VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -49,6 +42,14 @@ http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V9_LTfTUAq.png",VTV9
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6e/VTV5_T%C3%A2y_Nam_B%E1%BB%99.png/revision/latest?cb=20200608143410&path-prefix=vi",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/VTV5_T%C3%A2y_Nguy%C3%AAn.png/revision/latest?cb=20200608143417&path-prefix=vi",VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
 
 
@@ -263,7 +264,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8?b
 
 #EXTINF:0  tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png",History
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?bycoca
+#EXT-X-KEY:METHOD=AES-128,URI="https://sdrm.vgame.us/verify?key=hQwvPSn5fti4BS4OLRMUcktnAppTZj4oG%2FX5VX%2F%2FlcQ%3D&chanel=history&mode=live"
+https://r5yqppqecmliv.vcdn.cloud/manifest/history/playlist_720p.m3u8
+====http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?bycoca
 
 #EXTINF:0  tvg-id="arirang" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Ariang
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -297,14 +300,6 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 tvg-id="STARMovies" group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1145599656040136704/vhnq06li_400x400.png",STAR Movies
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="STARWorld" group-title="Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1131448235707457537/p4iq0KWu_400x400.jpg",STAR World
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="LoveNature" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -313,17 +308,6 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:0 tvg-id="FC" group-title="Quốc Tế" tvg-logo="https://media4.giphy.com/media/26hirKDWxy7WcdU5i/200.gif",FC
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:0 tvg-id="RedBull" group-title="Quốc Tế" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png",Red Bull
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:0 tvg-id="1HDMusic" group-title="Quốc Tế", tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png",1HD Music
-#EXTVLCOPT:http-user-agent="CoocaaTV"
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 
 # --- Hoạt Hình
