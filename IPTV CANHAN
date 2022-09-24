@@ -92,7 +92,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 
-#EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://4.bp.blogspot.com/-wGMX_aa1fyM/W7XEzlDWwJI/AAAAAAAABiU/aTiVux421_0ddu5AhK8tAzoH695GlUG-ACLcBGAs/s1600/htv3.png/revision/latest?cb=20210718085333&path-prefix=vi",HTV3
+#EXTINF:0 tvg-id="htv3" group-title="HTV" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV3_422x278.png/revision/latest?cb=20210718085333&path-prefix=vi",HTV3
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 
@@ -148,7 +148,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 
-#EXTINF:0 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",HTVC FBNC
+#EXTINF:0 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-fbnc-hd.png",HTVC FBNC
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 
