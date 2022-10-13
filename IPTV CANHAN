@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/coocaaE" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgviet" tvg-shift=0 m3uautoload=1
 
 # EXTM3U
 
@@ -55,11 +55,11 @@ https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 # Truyền hình Nhà nước
 
 
-#EXTINF:0 tvg-id="antvhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vthanh.xyz/ic/89.png", ANTV HD
+#EXTINF:0 tvg-id="antvhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/524177-anninh.png", ANTV HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="nhandan" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vthanh.xyz/ic/91.png", Nhân Dân TV
+#EXTINF:0 tvg-id="nhandan" group-title="Truyền Hình Nhà Nước" tvg-logo="https://img.nhandan.thienvietjsc.net/m/1500//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 
@@ -67,15 +67,15 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="qpvnhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vthanh.xyz/ic/93.png", QPVN
+#EXTINF:0 tvg-id="qpvnhd" group-title="Truyền Hình Nhà Nước" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", QPVN
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="ttxvnhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vthanh.xyz/ic/90.png", VNews
+#EXTINF:0 tvg-id="ttxvnhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vnews.gov.vn/img/vnews-logo_2.png", VNews
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vovtvhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://vthanh.xyz/ic/94.png", VOVTV HD
+#EXTINF:0 tvg-id="vovtvhd" group-title="Truyền Hình Nhà Nước" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/vovlogofooter.PNG", VOVTV HD
 #EXTVLCOPT:http-user-agent="CoocaaTV"
 http://103.90.220.236/vovlive/tv1live.m3u8
 
