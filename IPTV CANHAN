@@ -65,7 +65,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 
 #EXTINF:0 tvg-id="quochoi" group-title="Truyền Hình Nhà Nước" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png", Quốc Hội
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-https://media.quochoitv.vn/live/qhtv_720p/index.m3u8
+https://media.quochoitv.vn/live/qhtv_720p/chunklist_b1628000.m3u8
 
 #EXTINF:0 tvg-id="qpvnhd" group-title="Truyền Hình Nhà Nước" tvg-logo="http://qpvn.vn/uploads/site/703a04fed6e5d0fb9aaf41941140ff3805c0ae9a.png", QPVN
 #EXTVLCOPT:http-user-agent="CoocaaTV"
