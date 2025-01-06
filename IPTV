@@ -12,11 +12,11 @@ https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfYWJyLnNtaWx8b3RoZXJ8MTczNjE3NDU
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv2-1408525529850.png",VTV2
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+https://ec05-pop5-hht.tv360.vn/bpk-token/vrik6iegv6scb7vnlo52uufpecwfblza/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv3-1408525529852.png",VTV3
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+https://ec01-pop5-hht.tv360.vn/bpk-token/xb7via6hqnpqh5ckugmlu72uao4h6vad/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv4-1408525529858.png",VTV4
 #EXTVLCOPT:http-user-agent="CoocaaTV"
