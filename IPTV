@@ -8,7 +8,7 @@
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv1-1408525529847.png",VTV1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+https://vips-livecdn.fptplay.net/Tm9uZXx2dHYxaGRfYWJyLnNtaWx8b3RoZXJ8MTczNjE3NDUzN3wyMjMuMjcuMTA5LjM3fDQwM2RkYWRlNTc5YmRlOWI1YTdiZDdmNDg5YTU0MmJj/fnxch2/vtv1hd_abr.smil/chunklist_b1800000.m3u8
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://vtv1.mediacdn.vn/2014/vtv2-1408525529850.png",VTV2
 #EXTVLCOPT:http-user-agent="CoocaaTV"
